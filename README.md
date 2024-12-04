@@ -1,4 +1,4 @@
-BETBOT - Heroku API Key Validator 🚀
+BETBOT - Heroku API Key Validator 
 
 betbote is a powerful Python tool designed to easily validate Heroku API keys. It checks their authorization status against the Heroku API, providing detailed feedback such as user email and ID. With smooth progress bars, automatic retries, and robust error handling, betbote ensures consistent and reliable results. 🔑✅
 
@@ -108,7 +108,7 @@ This project is licensed under the MIT License. See the LICENSE file for more de
 
 ---
 
-Credits 🎉
+Credits 
 
 Crafted with by Olial Kibria Konok. Enjoy using BETBOT!
 
