@@ -17,13 +17,13 @@ Developer-Friendly: Streamlined file input and detailed feedback for developers 
 Open Source: Free and open for contributions. Tailor it to your needs!
 Getting Started:
 Clone the repository:
-git clone https://github.com/yourusername/betbote.git
+(https://github.com/olialkibriakonok/betbote.git)
 
 Install dependencies:
 pip install -r requirements.txt
 
 Run the tool to validate Heroku API keys:
-python validate_heroku_keys.py --file <path_to_file>
+python betbote.py --file <path_to_file>
 
 License:
 This tool is licensed under the MIT License.
