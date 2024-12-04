@@ -110,5 +110,5 @@ This project is licensed under the MIT License. See the LICENSE file for more de
 
 Credits 🎉
 
-Crafted with ❤ by Olial Kibria Konok. Enjoy using BETBOT!
+Crafted with by Olial Kibria Konok. Enjoy using BETBOT!
 
