@@ -42,21 +42,16 @@ Free to use and contribute. Tailor it to your needs or add new features!
 Getting Started 🛠️
 Clone the repository
 
-bash
-Copy code
-git clone https://github.com/olialkibriakonok/betbote.git
+`git clone https://github.com/olialkibriakonok/betbote.git`
+
 Install dependencies
 Install the required Python libraries using:
+`pip install -r requirements.txt`
 
-bash
-Copy code
-pip install -r requirements.txt
 Run the tool
 Execute the following command to validate Heroku API keys:
+`python betbote.py --file <path_to_file>`
 
-bash
-Copy code
-python betbote.py --file <path_to_file>
 License ⚖️
 This project is licensed under the MIT License.
 
