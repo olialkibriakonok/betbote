@@ -84,7 +84,7 @@ Run the following command to clone the repository:
 
 Install the required Python libraries using:
 
-`pip install -r requirements.txt`
+`pip3 install -r requirements.txt`
 
 3. Run the tool
 
